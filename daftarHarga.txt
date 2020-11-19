@@ -1,0 +1,5 @@
+telur 20000
+beras 15000
+sayur 5000
+susu 10000
+sirup 20000
